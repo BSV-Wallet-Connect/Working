@@ -13,6 +13,8 @@
 - 所有Markdown文档在电脑端使用[MarkText]([Releases · marktext/marktext · GitHub](https://github.com/marktext/marktext/releases))软件编辑
 
 - 图表使用 [Mermaid](https://mermaid-js.github.io/mermaid/#/README) 方式的时序图、流程图和甘特图
+  
+  <mark>以下以及其他文档中的graph, gantt, sequenceDiagram均可在MarkText软件中展现为图形</mark>
 
 工作流程：
 
