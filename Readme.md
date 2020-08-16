@@ -14,7 +14,7 @@
 
 - 图表使用 [Mermaid](https://mermaid-js.github.io/mermaid/#/README) 方式的时序图、流程图和甘特图
   
-  <mark>以下以及其他文档中的graph, gantt, sequenceDiagram均可在MarkText软件中展现为图形</mark>
+  <mark>以下以及其他文档中的graph, gantt, sequenceDiagram均可在MarkText软件中展现为图形。或者使用下面的插件在浏览器中显示为图形 [GitHub - BackMarket/github-mermaid-extension: A browser extension for Chrome, Opera &amp; Firefox that adds Mermaid language support to Github](https://github.com/BackMarket/github-mermaid-extension)</mark>
 
 工作流程：
 
