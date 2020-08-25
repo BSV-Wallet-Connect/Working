@@ -18,5 +18,3 @@
   - ETH Web3 Provider https://docs.walletconnect.org/quick-start/dapps/web3-provider
   
   - ETH WalletConnet https://docs.walletconnect.org
-    
-    
